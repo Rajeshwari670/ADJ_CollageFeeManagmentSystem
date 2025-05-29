@@ -73,12 +73,12 @@ com/
 *  DAO : [`FeePaymentDAO.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/dao/FeePaymentDAO.class)
 * Servlets:
 
-  * [`AddFeePaymentServlet.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/servlet/AddFeePaymentServlet.java)
-  * [`UpdateFeePaymentServlet.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/servlet/UpdateFeePaymentServlet.java)
-  * [`DeleteFeePaymentServlet.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/servlet/DeleteFeePaymentServlet.java)
-  * [`DisplayFeePaymentsServlet.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/servlet/DisplayFeePaymentsServlet.java)
-  * [`ReportServlet.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/servlet/ReportServlet.java)
-  * [`ReportCriteriaServlet.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/servlet/ReportCriteriaServlet.java)
+  * [`AddFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/AddFeePaymentServlet.class)
+  * [`UpdateFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/UpdateFeePaymentServlet.java)
+  * [`DeleteFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/DeleteFeePaymentServlet.java)
+  * [`DisplayFeePaymentsServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/DisplayFeePaymentsServlet.java)
+  * [`ReportServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/ReportServlet.java)
+  * [`ReportCriteriaServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/ReportCriteriaServlet.java)
 
 ---
 
