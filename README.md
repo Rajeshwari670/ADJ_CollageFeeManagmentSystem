@@ -25,7 +25,7 @@ CREATE DATABASE collegefeedb;
 ```
 
 3. Import the schema using this SQL file:
-   📌 [`mysqlcommand.sql`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/mysqlcommand.sql)
+   📌 [`mysqlcommand.sql`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/mysqlCommand.sql)
 
 ---
 
