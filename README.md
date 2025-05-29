@@ -1,4 +1,4 @@
-#  ADJ\_College Fee Management System
+#  College Fee Management System
 
 A simple web-based system to manage student fee payments, built using **Java (JSP + Servlets)**, **MySQL**, and **JDBC**.
 
@@ -13,7 +13,7 @@ A simple web-based system to manage student fee payments, built using **Java (JS
 
 ---
 
-## 📅How to Set Up the Project
+## How to Set Up the Project
 
 ### Step 1: Create Database
 
