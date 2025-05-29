@@ -74,7 +74,7 @@ com/
 * Servlets:
 
   * [`AddFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/AddFeePaymentServlet.class)
-  * [`UpdateFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/UpdateFeePaymentServlet.java)
+  * [`UpdateFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/UpdateFeePaymentServlet.class)
   * [`DeleteFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/DeleteFeePaymentServlet.java)
   * [`DisplayFeePaymentsServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/DisplayFeePaymentsServlet.java)
   * [`ReportServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/ReportServlet.java)
