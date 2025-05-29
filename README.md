@@ -69,8 +69,8 @@ com/
 ###  File Links
 
 * [`DatabaseConnection.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/util/DatabaseConnection.class)
-* [`FeePayment.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/model/FeePayment.java)
-* [`FeePaymentDAO.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/dao/FeePaymentDAO.java)
+* [`FeePayment.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/model/FeePayment.class)
+* [`FeePaymentDAO.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/dao/FeePaymentDAO.class)
 * Servlets:
 
   * [`AddFeePaymentServlet.java`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/blob/main/com/servlet/AddFeePaymentServlet.java)
