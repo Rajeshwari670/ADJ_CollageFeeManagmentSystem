@@ -1,4 +1,4 @@
-# 🎓 ADJ\_College Fee Management System
+#  ADJ\_College Fee Management System
 
 A simple web-based system to manage student fee payments, built using **Java (JSP + Servlets)**, **MySQL**, and **JDBC**.
 
@@ -29,7 +29,7 @@ CREATE DATABASE collegefeedb;
 
 ---
 
-### ✅ Step 2: Set Up the Project in Eclipse
+###  Step 2: Set Up the Project in Eclipse
 
 1. Create a **Dynamic Web Project** in Eclipse (name it as you like).
 
@@ -43,7 +43,7 @@ CREATE DATABASE collegefeedb;
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ### 📁 Package Setup (`src/`)
 
@@ -85,16 +85,16 @@ com/
 ###  Web Content
 
 Place all your `.jsp` files and `styles.css` inside the `WebContent/` directory.
-📌 [`webapp folder`](https://github.com/SrinivaS4321/CollegeFeeMangementSystem/tree/main/webapp)
+📌 [`webapp folder`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/tree/main/webapp)
 
 ---
 
 ## Features
 
-* ✅ Add New Fee Record
-* ✅ Update Existing Fee Record
-* ✅ Delete Student Fee Record
-* ✅ Display All Payments
-* ✅ Generate Report Based on Criteria (e.g., Overdue, Paid)
+*  Add New Fee Record
+*  Update Existing Fee Record
+*  Delete Student Fee Record
+*  Display All Payments
+*  Generate Report Based on Criteria (e.g., Overdue, Paid)
 
 
