@@ -89,6 +89,24 @@ Place all your `.jsp` files and `styles.css` inside the `WebContent/` directory.
 
 ---
 
+##  Direct JSP URLs
+
+* Add Product: [`productadd.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/productadd.jsp)
+* Update Product: [`productupdate.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/productupdate.jsp)
+* Delete Product: [`productdelete.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/productdelete.jsp)
+* View Products: [`productdisplay.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/productdisplay.jsp)
+* Reports: [`report_form.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/report_form.jsp)
+
+---
+
+##  Running the Project
+
+1. Right-click the project > **Run As** > **Run on Server**.
+2. Choose Apache Tomcat Server and start it.
+3. Open your browser:
+   `http://localhost:8080/ProductMangementSystem/`
+
+---
 ## Features
 
 *  Add New Fee Record
