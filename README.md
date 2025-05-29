@@ -68,13 +68,13 @@ com/
 
 ###  File Links
 
-*  UTIL : [`DatabaseConnection.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/util/DatabaseConnection.class)
-* Model :[`FeePayment.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/model/FeePayment.class)
-*  DAO : [`FeePaymentDAO.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/dao/FeePaymentDAO.class)
+*  UTIL : [`DatabaseConnection.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/util/DatabaseConnection.java)
+* Model :[`FeePayment.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/model/FeePayment.java)
+*  DAO : [`FeePaymentDAO.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/dao/FeePaymentDAO.java)
 * Servlets:
 
-  * [`AddFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/AddFeePaymentServlet.class)
-  * [`UpdateFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/UpdateFeePaymentServlet.class)
+  * [`AddFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/AddFeePaymentServlet.java)
+  * [`UpdateFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/UpdateFeePaymentServlet.java)
   * [`DeleteFeePaymentServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/DeleteFeePaymentServlet.java)
   * [`DisplayFeePaymentsServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/DisplayFeePaymentsServlet.java)
   * [`ReportServlet.java`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/com/servlet/ReportServlet.java)
