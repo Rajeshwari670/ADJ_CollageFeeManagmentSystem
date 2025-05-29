@@ -91,10 +91,10 @@ Place all your `.jsp` files and `styles.css` inside the `WebContent/` directory.
 
 ##  Direct JSP URLs
 
-* Add Product: [`productadd.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/productadd.jsp)
-* Update Product: [`productupdate.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/productupdate.jsp)
-* Delete Product: [`productdelete.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/productdelete.jsp)
-* View Products: [`productdisplay.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/productdisplay.jsp)
+* Add Product: [`productadd.jsp`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/webapp/feepaymentadd.jsp)
+* Update Product: [`productupdate.jsp`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/webapp/feepaymentupdate.jsp)
+* Delete Product: [`productdelete.jsp`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/webapp/feepaymentdelete.jsp)
+* View Products: [`productdisplay.jsp`](https://github.com/Rajeshwari670/ADJ_CollageFeeManagmentSystem/blob/main/webapp/feepaymentdisplay.jsp)
 * Reports: [`report_form.jsp`](https://github.com/chethanlr/ADJ_ProductManagment/blob/main/webapp/report_form.jsp)
 
 ---
